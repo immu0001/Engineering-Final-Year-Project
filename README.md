@@ -13,4 +13,4 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 
 YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on par with Focal Loss but about 4x faster. Moreover, you can easily tradeoff between speed and accuracy simply by changing the size of the model, no retraining required!
 
-
+<img src="map.png" height="400" width="400">
